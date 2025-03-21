@@ -1,0 +1,80 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "TradingEngineServer.Orderbook/1.0.0": {
+        "dependencies": {
+          "TradingEngineServer.Instrument": "1.0.0",
+          "TradingEngineServer.Orders": "1.0.0",
+          "TradingEngineServer.Instrument.Reference": "1.0.0.0",
+          "TradingEngineServer.Orders.Reference": "1.0.0.0"
+        },
+        "runtime": {
+          "TradingEngineServer.Orderbook.dll": {}
+        }
+      },
+      "TradingEngineServer.Instrument/1.0.0": {
+        "runtime": {
+          "TradingEngineServer.Instrument.dll": {
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "TradingEngineServer.Orders/1.0.0": {
+        "runtime": {
+          "TradingEngineServer.Orders.dll": {
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "TradingEngineServer.Instrument.Reference/1.0.0.0": {
+        "runtime": {
+          "TradingEngineServer.Instrument.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "TradingEngineServer.Orders.Reference/1.0.0.0": {
+        "runtime": {
+          "TradingEngineServer.Orders.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TradingEngineServer.Orderbook/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TradingEngineServer.Instrument/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TradingEngineServer.Orders/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TradingEngineServer.Instrument.Reference/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TradingEngineServer.Orders.Reference/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

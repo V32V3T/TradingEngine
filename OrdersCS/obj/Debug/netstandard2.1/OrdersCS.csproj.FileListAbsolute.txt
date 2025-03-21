@@ -1,0 +1,9 @@
+C:\Users\United\Desktop\HOOHAAA\TradingEngineServer\OrdersCS\obj\Debug\netstandard2.1\OrdersCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\United\Desktop\HOOHAAA\TradingEngineServer\OrdersCS\obj\Debug\netstandard2.1\OrdersCS.AssemblyInfoInputs.cache
+C:\Users\United\Desktop\HOOHAAA\TradingEngineServer\OrdersCS\obj\Debug\netstandard2.1\OrdersCS.AssemblyInfo.cs
+C:\Users\United\Desktop\HOOHAAA\TradingEngineServer\OrdersCS\obj\Debug\netstandard2.1\OrdersCS.csproj.CoreCompileInputs.cache
+C:\Users\United\Desktop\HOOHAAA\TradingEngineServer\OrdersCS\bin\Debug\netstandard2.1\TradingEngineServer.Orders.deps.json
+C:\Users\United\Desktop\HOOHAAA\TradingEngineServer\OrdersCS\bin\Debug\netstandard2.1\TradingEngineServer.Orders.dll
+C:\Users\United\Desktop\HOOHAAA\TradingEngineServer\OrdersCS\bin\Debug\netstandard2.1\TradingEngineServer.Orders.pdb
+C:\Users\United\Desktop\HOOHAAA\TradingEngineServer\OrdersCS\obj\Debug\netstandard2.1\TradingEngineServer.Orders.dll
+C:\Users\United\Desktop\HOOHAAA\TradingEngineServer\OrdersCS\obj\Debug\netstandard2.1\TradingEngineServer.Orders.pdb

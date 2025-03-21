@@ -1,0 +1,15 @@
+C:\Users\United\Desktop\HOOHAAA\TradingEngineServer\OrderBookCS\obj\Debug\netstandard2.1\OrderBookCS.csproj.AssemblyReference.cache
+C:\Users\United\Desktop\HOOHAAA\TradingEngineServer\OrderBookCS\obj\Debug\netstandard2.1\OrderBookCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\United\Desktop\HOOHAAA\TradingEngineServer\OrderBookCS\obj\Debug\netstandard2.1\OrderBookCS.AssemblyInfoInputs.cache
+C:\Users\United\Desktop\HOOHAAA\TradingEngineServer\OrderBookCS\obj\Debug\netstandard2.1\OrderBookCS.AssemblyInfo.cs
+C:\Users\United\Desktop\HOOHAAA\TradingEngineServer\OrderBookCS\obj\Debug\netstandard2.1\OrderBookCS.csproj.CoreCompileInputs.cache
+C:\Users\United\Desktop\HOOHAAA\TradingEngineServer\OrderBookCS\bin\Debug\netstandard2.1\TradingEngineServer.Orderbook.deps.json
+C:\Users\United\Desktop\HOOHAAA\TradingEngineServer\OrderBookCS\bin\Debug\netstandard2.1\TradingEngineServer.Orderbook.dll
+C:\Users\United\Desktop\HOOHAAA\TradingEngineServer\OrderBookCS\bin\Debug\netstandard2.1\TradingEngineServer.Orderbook.pdb
+C:\Users\United\Desktop\HOOHAAA\TradingEngineServer\OrderBookCS\bin\Debug\netstandard2.1\TradingEngineServer.Instrument.dll
+C:\Users\United\Desktop\HOOHAAA\TradingEngineServer\OrderBookCS\bin\Debug\netstandard2.1\TradingEngineServer.Orders.dll
+C:\Users\United\Desktop\HOOHAAA\TradingEngineServer\OrderBookCS\bin\Debug\netstandard2.1\TradingEngineServer.Instrument.pdb
+C:\Users\United\Desktop\HOOHAAA\TradingEngineServer\OrderBookCS\bin\Debug\netstandard2.1\TradingEngineServer.Orders.pdb
+C:\Users\United\Desktop\HOOHAAA\TradingEngineServer\OrderBookCS\obj\Debug\netstandard2.1\OrderBoo.EC482315.Up2Date
+C:\Users\United\Desktop\HOOHAAA\TradingEngineServer\OrderBookCS\obj\Debug\netstandard2.1\TradingEngineServer.Orderbook.dll
+C:\Users\United\Desktop\HOOHAAA\TradingEngineServer\OrderBookCS\obj\Debug\netstandard2.1\TradingEngineServer.Orderbook.pdb
