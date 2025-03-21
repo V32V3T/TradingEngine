@@ -36,6 +36,47 @@ Manages all order-related operations:
 ### LoggingCS
 Provides structured logging capabilities for the trading engine.
 
+## System Flowchart
+
+```mermaid
+graph TD
+    A[Client] -->|Submit Order| B[TradingEngineServer]
+    B -->|Validate Order| C{Order Valid?}
+    C -->|No| D[Reject Order]
+    C -->|Yes| E[OrderBookCS]
+    
+    E -->|Check Price| F{Price Match?}
+    F -->|No| G[Add to Order Book]
+    F -->|Yes| H[Execute Trade]
+    
+    G -->|Update| I[Order Book State]
+    H -->|Update| I
+    
+    I -->|Log| J[LoggingCS]
+    
+    subgraph OrderBookCS
+        E
+        F
+        G
+        H
+        I
+    end
+    
+    subgraph OrdersCS
+        K[Order Creation]
+        L[Order Modification]
+        M[Order Cancellation]
+    end
+    
+    B -->|Process| K
+    B -->|Process| L
+    B -->|Process| M
+    
+    K -->|Update| I
+    L -->|Update| I
+    M -->|Update| I
+```
+
 ## Features
 
 - **Order Book Management**
