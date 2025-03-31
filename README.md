@@ -1,6 +1,6 @@
 # Trading Engine Server
 
-A high-performance trading engine implementation in C# that provides order book management, order matching, and trade execution capabilities.
+A trading engine implementation in C# that provides order book management, order matching, and trade execution capabilities.
 
 ## Project Overview
 
