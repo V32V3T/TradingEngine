@@ -101,8 +101,8 @@ graph TD
 ## Getting Started
 
 ### Prerequisites
-- .NET 6.0 or later
-- Visual Studio 2022 or later (recommended)
+- .NET 8.0 
+- Visual Studio 2022
 - Git
 
 ### Installation
